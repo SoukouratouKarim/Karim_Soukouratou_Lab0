@@ -1,0 +1,12 @@
+(ai_env) PS C:\Users\Soukouratou Karim\Desktop\Intro_to_AI\ai_labs> & "c:\Users\Soukouratou Karim\Desktop\Intro_to_AI\ai_labs\ai_env\Scripts\python.exe" "c:/Users/Soukouratou Karim/Desktop/Intro_to_AI/ai_labs/environment_test.py"
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.14.3
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\Soukouratou Karim\Desktop\Intro_to_AI\ai_labs\ai_env)
+==================================================
